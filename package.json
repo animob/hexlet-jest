@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "Anna Dubik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
